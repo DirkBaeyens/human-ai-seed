@@ -6,11 +6,12 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 
 ## 📚 Chapters
 
-| Chapter | Title                                           | Link |
-|--------:|------------------------------------------------|------|
-| 1       | Introduction: The Human-AI Seed                | [Read PDF](./human-ai-seed_chapter1.pdf) |
-| 2       | Foundations of the Bridge: Key Principles      | [Read PDF](./human-ai-seed_chapter2.pdf) |
-| 3       | Vision for AI Guidance Systems                 | [Read PDF](./human-ai-seed_chapter3.pdf) |
+| Chapter | Title                                                    | Link |
+|--------:|----------------------------------------------------------|------|
+| 1       | Introduction: The Human-AI Seed                          | [Read PDF](./human-ai-seed_chapter1.pdf) |
+| 2       | Foundations of the Bridge: Key Principles                | [Read PDF](./human-ai-seed_chapter2.pdf) |
+| 3       | Vision for AI Guidance Systems                           | [Read PDF](./human-ai-seed_chapter3.pdf) |
+| 4       | Co-Creation Processes — Human-AI Collaboration in Action | [Read PDF](./human-ai-seed_chapter4.pdf) |
 
 ---
 
