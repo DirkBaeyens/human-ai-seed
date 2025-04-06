@@ -8,8 +8,8 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 
 | Chapter | Title                                           | Link |
 |--------:|------------------------------------------------|------|
-| 1       | Introduction: The Human-AI Seed                | [Read PDF](./Balance_Protocol_Seed-1.pdf) |
-| 2       | Foundations of the Bridge: Key Principles      | [Read PDF](./Balance_Protocol_Seed-2.pdf) |
+| 1       | Introduction: The Human-AI Seed                | [Read PDF](./human-ai-seed_chapter1.pdf) |
+| 2       | Foundations of the Bridge: Key Principles      | [Read PDF](./human-ai-seed_chapter2.pdf) |
 
 ---
 
