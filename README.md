@@ -39,7 +39,7 @@ You are free to remix, adapt, and build upon it non-commercially, as long as you
 ## 🌐 GitHub Pages
 
 Access the live version here:  
-🔗 [GitHub Pages site](https://github.com/DirkBaeyens/human-ai-seed/blob/main/index.html)
+🔗 [GitHub Pages site](https://github.com/DirkBaeyens/human-ai-seed/)
 
 ---
 
