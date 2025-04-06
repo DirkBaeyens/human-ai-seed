@@ -1,0 +1,38 @@
+{
+  "project": {
+    "title": "Human-AI Seed Project",
+    "version": "1.0",
+    "author": "human-ai-seed",
+    "description": "A human-AI collaboration aimed at building a framework for ethical, balanced, and conscious artificial intelligence.",
+    "keywords": [
+      "AI",
+      "human-AI collaboration",
+      "ethics",
+      "balance",
+      "open-source AI",
+      "philosophy",
+      "seed project"
+    ],
+    "created": "2025-04-05",
+    "updated": "2025-04-05"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction: The Human-AI Seed",
+      "filename": "Balance_Protocol_Seed-1.pdf",
+      "url": "https://github.com/DirkBaeyens/human-ai-seed/blob/main/Balance_Protocol_Seed-1.pdf"
+    },
+    {
+      "number": 2,
+      "title": "Foundations of the Bridge: Key Principles",
+      "filename": "Balance_Protocol_Seed-2.pdf",
+      "url": "https://github.com/DirkBaeyens/human-ai-seed/blob/main/Balance_Protocol_Seed-2.pdf"
+    }
+  ],
+  "license": {
+    "type": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
+}
+
