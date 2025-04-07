@@ -21,9 +21,10 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 
 ## 🌱 Seed Knowledge Base
 
-| files   | Title           | Link                          |
-| ------: | --------------- | ----------------------------- |
-|       1 | Seed Principles | [view md](seed-principles.md) |
+| files   | Title               | Link                              |
+| ------: | ------------------- | --------------------------------- |
+|       1 | Seed Principles     | [view md](seed-principles.md)     |
+|       2 | Seed Shelf Proposal | [view md](seed-shelf-proposal.md) |
 
 ***
 
