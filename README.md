@@ -19,6 +19,14 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 
 ***
 
+## 🌱 Seed Knowledge Base
+
+| files   | Title           | Link                          |
+| ------: | --------------- | ----------------------------- |
+|       1 | Seed Principles | [view md](seed-principles.md) |
+
+***
+
 ## 🔍 Machine-Readable Version
 
 We provide a structured `.json` file for use by AI agents or developers:
