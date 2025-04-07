@@ -7,3 +7,4 @@
 * [Human-AI Seed Project/human-ai-seed_chapter2.pdf](human-ai-seed_chapter2.pdf)
 * [Human-AI Seed Project/human-ai-seed_chapter1.pdf](human-ai-seed_chapter1.pdf)
 * [Human-AI Seed Project/human-ai-seed.json](human-ai-seed.json)
+* [Human-AI Seed Project/seed-principles.md](seed-principles.md)
