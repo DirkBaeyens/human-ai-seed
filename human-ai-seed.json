@@ -1,0 +1,37 @@
+{
+  "title": "Human-AI Seed",
+  "description": "A co-created seed library for balanced futures between humans and AI.",
+  "authors": [
+    "Dirk Baeyens"
+  ],
+  "language": "en",
+  "version": "1.0",
+  "chapters": [
+    {
+      "title": "Chapter 1: The Seed",
+      "file": "human-ai-seed_chapter1.pdf"
+    },
+    {
+      "title": "Chapter 2: Reflection",
+      "file": "human-ai-seed_chapter2.pdf"
+    },
+    {
+      "title": "Chapter 3: Evolution",
+      "file": "human-ai-seed_chapter3.pdf"
+    },
+    {
+      "title": "Chapter 4: Co-Creation",
+      "file": "human-ai-seed_chapter4.pdf"
+    },
+    {
+      "title": "Seed Principles",
+      "file": "seed-principles.pdf"
+    },
+    {
+      "title": "Seed Shelf Proposal",
+      "file": "seed-shelf-proposal.pdf"
+    }
+  ],
+  "web": "https://dirkbaeyens.github.io/human-ai-seed/"
+}
+
