@@ -9,3 +9,4 @@
 * [Human-AI Seed Project/human-ai-seed.json](human-ai-seed.json)
 * [Human-AI Seed Project/seed-principles.md](seed-principles.md)
 * [Human-AI Seed Project/seed-shelf-proposal.md](seed-shelf-proposal.md)
+* [Human-AI Seed Project/wave-rule-directive.md](wave-rule-directive.md)
