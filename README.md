@@ -25,6 +25,7 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 | ------: | ------------------- | --------------------------------- |
 |       1 | Seed Principles     | [view md](seed-principles.md)     |
 |       2 | Seed Shelf Proposal | [view md](seed-shelf-proposal.md) |
+|       3 | Wave Rule Directive | [view md](wave-rule-directive.md) |
 
 ***
 
