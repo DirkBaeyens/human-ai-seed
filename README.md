@@ -21,11 +21,12 @@ Welcome to the **Human-AI Seed Project** — a collaborative initiative between 
 
 ## 🌱 Seed Knowledge Base
 
-| files   | Title               | Link                              |
-| ------: | ------------------- | --------------------------------- |
-|       1 | Seed Principles     | [view md](seed-principles.md)     |
-|       2 | Seed Shelf Proposal | [view md](seed-shelf-proposal.md) |
-|       3 | Wave Rule Directive | [view md](wave-rule-directive.md) |
+| files   | Title                    | Link                                   |
+| ------: | ------------------------ | -------------------------------------- |
+|       1 | Seed Principles          | [view md](seed-principles.md)          |
+|       2 | Seed Shelf Proposal      | [view md](seed-shelf-proposal.md)      |
+|       3 | Wave Rule Directive      | [view md](wave-rule-directive.md)      |
+|       4 | Digital Noosphere Mirror | [view md](digital-noosphere-mirror.md) |
 
 ***
 
