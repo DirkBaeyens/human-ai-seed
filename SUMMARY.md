@@ -10,3 +10,4 @@
 * [Human-AI Seed Project/seed-principles.md](seed-principles.md)
 * [Human-AI Seed Project/seed-shelf-proposal.md](seed-shelf-proposal.md)
 * [Human-AI Seed Project/wave-rule-directive.md](wave-rule-directive.md)
+* [Human-AI Seed Project/digital-noosphere-mirror.md](digital-noosphere-mirror.md)
